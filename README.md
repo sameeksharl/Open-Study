@@ -4,4 +4,4 @@ An online interface which can be used by students and teachers created for Dynam
 
 A python GUI with features like speech to text, text summarisation , profanity checker(Profanity if detected , the teacher/student mailed to respective authorities) and uploading assignments in the student interface. Whereas in the teacher interface there is uploading assignment details , assigning marks , and mailing parents the results.
 
-Run the main.py file - python main.py
+
